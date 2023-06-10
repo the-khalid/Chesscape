@@ -6,7 +6,7 @@ Chesscape is a online multiplayer chess game. You can create/share a room and pl
 > [Github Repo](https://github.com/the-khalid/Chesscape-backend)
 
 > Frontend is built using React and deployed to vercel
-> [Github Repo](https://github.com/the-khalid/chesscape)
+> [Github Repo](https://github.com/the-khalid/chesscape-frontend)
 > 
 ```mermaid
 graph LR
